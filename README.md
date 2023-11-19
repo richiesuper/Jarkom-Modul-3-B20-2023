@@ -7,7 +7,8 @@
 | Richie Seputro | 5025211213 |
 | Dimas Aria Pujangga | 5025211212 |
 
-## Penjelasan
+## Topologi
+![topologi](assets/topologi.png)
 
 0. Dimas
 
