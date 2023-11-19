@@ -1,4 +1,4 @@
-# Jarkom-Modul-2-B20-2023
+# Jarkom-Modul-3-B20-2023
 
 ## Informasi Kelompok
 
@@ -9,19 +9,21 @@
 
 ## Penjelasan
 
-1. Richie
+0. Dimas
 
-2. Richie
+1. Dimas
 
-3. Richie
+2. Dimas
 
-4. Richie
+3. Dimas
 
-5. Richie
+4. Dimas
 
-6. Richie
+5. Dimas
 
-7. Richie
+6. Dimas
+
+7. Dimas
 
 8. Richie
 
@@ -29,22 +31,22 @@
 
 10. Richie
 
-11. Dimas
+11. Richie
 
-12. Dimas
+12. Richie
 
-13. Dimas
+13. Richie
 
-14. Dimas
+14. Richie
 
-15. Dimas
+15. gtw
 
-16. Dimas
+16. gtw
 
-17. Dimas
+17. gtw
 
-18. Dimas
+18. gtw
 
-19. Dimas
+19. gtw
 
-20. Dimas
+20. gtw
